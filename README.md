@@ -5,7 +5,7 @@ This repository contains the solution to the NoSQL Challenge, which involves wor
 ## Part 1: Database and Jupyter Notebook Set Up
 
 - Imported data from the `establishments.json` file into a MongoDB database named `uk_food`.
-- Set up a Jupyter Notebook (`NoSQL_setup_starter.ipynb`) to interact with the MongoDB database.
+- Set up a Jupyter Notebook (`NoSQL_setup.ipynb`) to interact with the MongoDB database.
 - Confirmed the creation of the database and loaded data properly.
 - Reviewed the collections and documents within the database.
 - Updated the database with new documents and performed data type conversions.
@@ -25,7 +25,7 @@ This repository contains the solution to the NoSQL Challenge, which involves wor
 
 ## Conclusion
 
-The provided Jupyter Notebook files (`NoSQL_setup_starter.ipynb` and `NoSQL_analysis_starter.ipynb`) contain the code and explanations for each part of the challenge. The README file serves as a guide to understanding the tasks performed and the solutions provided.
+The provided Jupyter Notebook files (`NoSQL_setup.ipynb` and `NoSQL_analysis.ipynb`) contain the code and explanations for each part of the challenge. The README file serves as a guide to understanding the tasks performed and the solutions provided.
 
 For more details, refer to the Jupyter Notebook files in this repository.
 
